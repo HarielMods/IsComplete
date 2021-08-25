@@ -1,0 +1,7 @@
+## Interface: 90000
+## Title: IsComplete
+## Author: Hariel
+## Notes: Use '/ic 12345' to see if quest 12345 is complete
+## Version: 1.0.0
+
+core.lua
